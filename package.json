@@ -17,5 +17,8 @@
     "url": "https://github.com/thiago-arine/music-player.git/issues"
   },
   "homepage": "https://github.com/thiago-arine/music-player.git#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
