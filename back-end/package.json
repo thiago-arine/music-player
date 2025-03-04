@@ -6,16 +6,16 @@
     "start": "node ./api/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
+  "type": "module",
   "dependencies": {
     "cors": "^2.8.5",
+    "deploy": "file:..",
     "express": "^4.21.2",
-    "mongodb": "^6.14.1",
-    "music-player": "file:..",
+    "mongodb": "^6.13.0",
     "path": "^0.12.7"
   }
 }

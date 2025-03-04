@@ -1,10 +1,10 @@
 {
-  "name": "music-player",
+  "name": "deploy",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "build": "npm install --prefix back-end && npm install --prefix front-end && npm run build --prefix front-end",
-    "start": "npm run start  --prefix back-end"
+    "start": "npm run start --prefix back-end"
   },
   "repository": {
     "type": "git",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thiago-arine/music-player/issues"
+    "url": "https://github.com/thiago-arine/music-player.git/issues"
   },
-  "homepage": "https://github.com/thiago-arine/music-player#readme",
+  "homepage": "https://github.com/thiago-arine/music-player.git#readme",
   "description": ""
 }
